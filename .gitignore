@@ -1,0 +1,23 @@
+# 内部数据（含工作记录），不发布
+.workbuddy-ai/
+
+# 个人输入文本
+待输入*.txt
+新建文本文档.txt
+
+# 旧版脚本：中文会乱码，已被模拟打字.py 取代
+模拟输入.ps1
+模拟键盘输入.zip
+使用说明.txt
+
+# Python 与打包中间产物
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.spec
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
